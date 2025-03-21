@@ -1,4 +1,4 @@
-# Introdução à Ciência de Dados
+# Projeto da Dicciplina Introdução à Ciência de Dados UFPE 2024.2
 
 ## Base de Dados
 
